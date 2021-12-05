@@ -1,34 +1,23 @@
-# Hey, I'm Haya Saud Alrawdhan 
+# Hey, I'm Haya Saud Alrawdhan ![pngtree-plantgrowgrowthsuccess--flat-color-icon--vector-icon-banne-png-image_1486728](https://user-images.githubusercontent.com/92260175/144744912-4e875aae-1c87-43f2-af52-6c47c1df6886.jpg)
+
+
+
+
+<p align="Centre">
 I am seeking to make the place I came into to be full of greenness and beauty, whether for the people who are working in or the work I offer, or for the place itself.
 
 
 ![77b793c228f71a5153a6bcf8508aed89](https://user-images.githubusercontent.com/92260175/144722409-c110dd6f-ea79-43c4-b614-ec2fbacd3124.jpg)
 
-
-[![Twitter Badge](https://twitter.com/HaySaudd)](https://twitter.com/BraydonCoyer)
-
-
-[![LinkedIn Badge](https://www.linkedin.com/in/haya-saud-alrawdhan-6ba293128/)](https://www.linkedin.com/in/braydon-coyer/)
-
-[1]: http://www.github.com/your_contact_info
-[2]: https://www.linkedin.com/in/haya-saud-alrawdhan-6ba293128/
-[3]: https://www.twitter.com/HaySaudd
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/HaySaudd" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="" height="30" width="40" /></a>
+  
+<a href="https://www.linkedin.com/in/haya-saud-alrawdhan-6ba293128/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="" height="30" width="40" /></a>
+   
+</p>
 
 
 
-[](https://img.shields.io/badge/Code-Angular-informational?style=flat&logo=angular&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-Ionic-informational?style=flat&logo=ionic&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=4AB197)
-...
-
-<details>
-<summary>More Skills</summary>
-
-[](https://img.shields.io/badge/Style-CSS-informational?style=flat&logo=css3&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Style-Tailwind-informational?style=flat&logo=Tailwind-CSS&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Style-Sass-informational?style=flat&logo=Sass&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Style-Stylus-informational?style=flat&logo=Stylus&logoColor=white&color=4AB197)
-...
-</details>
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DenverCoder1)](https://git.io/streak-stats)
