@@ -1,8 +1,9 @@
 # Hey, I'm Haya Saud Alrawdhan 
+I am seeking to make the place I came into to be full of greenness and beauty, whether for the people who are working in or the work I offer, or for the place itself.
 
 
 ![77b793c228f71a5153a6bcf8508aed89](https://user-images.githubusercontent.com/92260175/144722409-c110dd6f-ea79-43c4-b614-ec2fbacd3124.jpg)
-#I am seeking to make the place I came into to be full of greenness and beauty, whether for the people who are working in or the work I offer, or for the place itself.
+
 
 [![Twitter Badge](https://twitter.com/HaySaudd)](https://twitter.com/BraydonCoyer)
 
