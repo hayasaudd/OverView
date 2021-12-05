@@ -15,6 +15,7 @@ I am seeking to make the place I came into to be full of greenness and beauty, w
 [3]: https://www.twitter.com/HaySaudd
 
 
+
 [](https://img.shields.io/badge/Code-Angular-informational?style=flat&logo=angular&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-Ionic-informational?style=flat&logo=ionic&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=4AB197)
@@ -29,3 +30,5 @@ I am seeking to make the place I came into to be full of greenness and beauty, w
 ![](https://img.shields.io/badge/Style-Stylus-informational?style=flat&logo=Stylus&logoColor=white&color=4AB197)
 ...
 </details>
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DenverCoder1)](https://git.io/streak-stats)
