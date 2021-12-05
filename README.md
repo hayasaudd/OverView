@@ -10,6 +10,11 @@ I am seeking to make the place I came into to be full of greenness and beauty, w
 
 [![LinkedIn Badge](https://www.linkedin.com/in/haya-saud-alrawdhan-6ba293128/)](https://www.linkedin.com/in/braydon-coyer/)
 
+[1]: http://www.github.com/your_contact_info
+[2]: https://www.linkedin.com/in/haya-saud-alrawdhan-6ba293128/
+[3]: https://www.twitter.com/HaySaudd
+
+
 [](https://img.shields.io/badge/Code-Angular-informational?style=flat&logo=angular&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-Ionic-informational?style=flat&logo=ionic&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=4AB197)
